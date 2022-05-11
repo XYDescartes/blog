@@ -6,6 +6,6 @@ export default {
   githubBranch: 'master', // 勿修改
   domain: 'https://blog.halberd.cn', // rss域名
   SEO_description: '羊的博客，书写值得书写的东西',
-  SEO_keywords: 'yunyuyuan,yunyuyuan\'s blog,羊,羊的博客',
+  SEO_keywords: 'yang,yang\'s blog,羊的博客',
   CloudflareAnalyze: "92cdf13c9c964ad1ab71c638c6fde0fc", // cloudflare的webanalyze
 }
